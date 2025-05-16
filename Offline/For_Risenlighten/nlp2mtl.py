@@ -7,8 +7,8 @@ import threading
 from openai import OpenAI, Client
 
 client = Client(
-    base_url="https://api2.aigcbest.top/v1",
-    api_key="sk-854gaFsTRtfpMPIWmMlHzCXiCGZX5Vy32ayOigQNs9kSvFFW"
+    base_url="xxxxxxxxxxxxxxxxx",
+    api_key="xxxxxxxxxxxxxxxxxxxx"
 )
 
 class TrafficRuleTranslator:
