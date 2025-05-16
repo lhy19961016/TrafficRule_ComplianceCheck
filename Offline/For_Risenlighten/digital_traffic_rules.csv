@@ -1,0 +1,7 @@
+Timestamp,Chinese Text,English Translation,MTL Statement
+2025-04-23 11:01:43,在高速公路上，超车时需要打转向灯,"On the highway, it is necessary to signal with your turn indicator when overtaking.","```json
+{
+  ""Natural language traffic rule"": ""On the highway, it is necessary to signal with your turn indicator when overtaking."",
+  ""MTL translation"": ""G(on_highway(ego) ∧ overtake(ego,other) -> turn_signal(ego))""
+}
+```"
